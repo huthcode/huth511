@@ -1,2 +1,2 @@
 # huth511
-  This is huth's personal website
+  This is Huth's personal website
